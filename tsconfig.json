@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "outDir": "./Build",
+        "resolveJsonModule": true,
+        "lib": ["ES2017", "DOM"],
+        "esModuleInterop": true
+    },
+    "files": [
+        "src/getAndSortTeams.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
